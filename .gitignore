@@ -10,8 +10,10 @@ user.js
 
 # Local History for Visual Studio Code
 .history/
+e2e/
 node_modules/
 /test-results/
+/tests-examples/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
